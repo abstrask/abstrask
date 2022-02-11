@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Rasmus Rask' GitHub stats](https://github-readme-stats.vercel.app/api?username=abstrask&show_icons=true&count_private=true&theme=github-dark)
+![Rasmus Rask' GitHub stats](https://github-readme-stats.vercel.app/api?username=abstrask&show_icons=true&count_private=true&theme=merko)
 
 <!--
 **abstrask/abstrask** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
